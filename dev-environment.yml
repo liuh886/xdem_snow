@@ -38,6 +38,10 @@ dependencies:
   - sphinx-autodoc-typehints
   - sphinx-gallery
   - pyyaml
+<<<<<<< HEAD
+=======
+#  - richdem
+>>>>>>> 933cb7850a144dea0097bef3b78be2be335b3cee
 
   - pip:
     - noisyopt
